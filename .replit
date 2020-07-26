@@ -1,0 +1,1 @@
+run = "javac Electronix.java && java Electronix"
